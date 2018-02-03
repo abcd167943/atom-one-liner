@@ -1,31 +1,30 @@
 {
   "name": "one-liner",
   "main": "./lib/main",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Remove line breaks and converts multi lined HTML aware text blocks into one line. Optionally remove all whitespaces.",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
   "repository": {
-      "type": "git",
-      "url": "https://github.com/rcaferati/atom-one-liner"
+    "type": "git",
+    "url": "https://github.com/rcaferati/atom-one-liner"
   },
   "bugs": {
-      "url": "https://caferati.me/labs/one-liner"
+    "url": "https://caferati.me/labs/one-liner"
   },
   "author": "Rafael Caferati <rafael@caferati.me> (http://caferati.me)",
   "homepage": "https://caferati.me/labs/one-liner",
-  "dependencies": {
-  },
+  "dependencies": {},
   "keywords": [
-      "format",
-      "formatting",
-      "html",
-      "string",
-      "list",
-      "one line",
-      "one liner",
-      "productivity"
+    "format",
+    "formatting",
+    "html",
+    "string",
+    "list",
+    "one line",
+    "one liner",
+    "productivity"
   ]
 }
