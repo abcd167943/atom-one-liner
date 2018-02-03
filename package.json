@@ -18,13 +18,15 @@
   "homepage": "https://caferati.me/labs/one-liner",
   "dependencies": {},
   "keywords": [
-    "format",
-    "formatting",
-    "html",
-    "string",
-    "list",
-    "one line",
-    "one liner",
-    "productivity"
+      "format",
+      "formatting",
+      "html",
+      "string",
+      "list",
+      "one line",
+      "one liner",
+      "productivity",
+      "remove line breaks",
+      "line-break"
   ]
 }

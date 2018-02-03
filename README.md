@@ -1,11 +1,12 @@
-#Atom oneliner package
-====================
+# Atom one-liner package
 
 Atom package that removes all line breaks and converts multi lined text blocks into one line.
 
-![demo](http://i.imgur.com/VNOjU8C.gif)
+## Demo
 
-[Access the live demo here.](https://caferati.me/demo/one-liner)
+[Live Demo on my Portfolio](https://caferati.me/demo/one-liner)
+
+![demo](http://i.imgur.com/VNOjU8C.gif)
 
 ## Features
 
@@ -21,4 +22,4 @@ Atom package that removes all line breaks and converts multi lined text blocks i
 #### Rafael Caferati
 + Checkout my <a href="https://caferati.me" title="Full-Stack Web Developer, UI/UX Javascript Specialist" target="_blank">Full-Stack Web Developer Website</a>
 + Other open source projects @ <a title="Web Software Developer Code Laboratory" target="_blank" href="https://caferati.me/labs">Code Laboratory</a>
-+ A scope of my work @ <a title="Web Software Developer Portfolio" target="_blank" href="https://caferati.me/portfolio">Web Portfolio</a>
++ Selected projects @ <a title="Web Software Developer Portfolio" target="_blank" href="https://caferati.me/portfolio">Web Portfolio</a>
