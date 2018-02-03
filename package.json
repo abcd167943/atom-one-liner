@@ -1,7 +1,7 @@
 {
   "name": "one-liner",
   "main": "./lib/main",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Remove line breaks and converts multi lined HTML aware text blocks into one line. Optionally remove all whitespaces.",
   "license": "MIT",
   "engines": {
