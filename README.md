@@ -4,7 +4,7 @@ Atom package that removes all line breaks and converts multi lined text blocks i
 
 ## Demo
 
-[Live Demo on my Portfolio](https://caferati.me/demo/one-liner)
+[Live Demo on my Portfolio](https://caferati.me/demo/oneliner)
 
 ![demo](http://i.imgur.com/VNOjU8C.gif)
 
