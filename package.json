@@ -1,7 +1,7 @@
 {
   "name": "one-liner",
   "main": "./lib/main",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Remove line breaks and converts multi lined HTML aware text blocks into one line. Optionally remove all whitespaces.",
   "license": "MIT",
   "engines": {
@@ -18,15 +18,15 @@
   "homepage": "https://caferati.me/labs/one-liner",
   "dependencies": {},
   "keywords": [
-      "format",
-      "formatting",
-      "html",
-      "string",
-      "list",
-      "one line",
-      "one liner",
-      "productivity",
-      "remove line breaks",
-      "line-break"
+    "format",
+    "formatting",
+    "html",
+    "string",
+    "list",
+    "one line",
+    "one liner",
+    "productivity",
+    "remove line breaks",
+    "line-break"
   ]
 }
